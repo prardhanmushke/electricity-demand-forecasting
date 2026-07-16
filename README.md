@@ -6,7 +6,7 @@ This repository contains an end-to-end machine learning pipeline to forecast wee
 
 
 
-\## Repository Structure
+## Repository Structure
 
 \* `DE\_Electricity\_Exploration.ipynb`: Original exploration, EDA, and deep learning models.
 
@@ -20,7 +20,7 @@ This repository contains an end-to-end machine learning pipeline to forecast wee
 
 
 
-\## How to Run the Pipeline
+## How to Run the Pipeline
 
 To reproduce the forecasts and generate the outputs from scratch:
 
