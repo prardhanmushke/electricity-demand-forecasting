@@ -10,13 +10,13 @@ This repository contains an end-to-end machine learning pipeline to forecast wee
 
 * `DE\_Electricity\_Exploration.ipynb`: Original exploration, EDA, and deep learning models.
 
-\* `src/`: Core Python modules for data loading, feature engineering, and modeling.
+* `src/`: Core Python modules for data loading, feature engineering, and modeling.
 
-\* `scripts/`: Execution scripts to run the pipeline.
+* `scripts/`: Execution scripts to run the pipeline.
 
-\* `outputs/`: Automatically generated forecasts, evaluation metrics, and figures.
+* `outputs/`: Automatically generated forecasts, evaluation metrics, and figures.
 
-\* `test\_benchmarks.py` / `test\_features.py`: Pytest suites for logic validation.
+* `test\_benchmarks.py` / `test\_features.py`: Pytest suites for logic validation.
 
 
 
