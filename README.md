@@ -1,4 +1,4 @@
-\# Electricity Demand Forecasting (Germany)
+# Forecasting German Electricity Demand
 
 
 
