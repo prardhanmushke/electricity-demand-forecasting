@@ -8,7 +8,7 @@ This repository contains an end-to-end machine learning pipeline to forecast wee
 
 ## Repository Structure
 
-* `DE\_Electricity\_Exploration.ipynb`: Original exploration, EDA, and deep learning models.
+* DE\_Electricity\_Exploration.ipynb: Original exploration, EDA, and deep learning models.
 
 * `src/`: Core Python modules for data loading, feature engineering, and modeling.
 
